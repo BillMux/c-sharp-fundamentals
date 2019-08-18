@@ -1,9 +1,8 @@
-using CSharpFundamentals;
 using NUnit.Framework;
 
-namespace CSharpFundamentalsTests
+namespace Tests
 {
-    public class CSharpFundamentalsTests
+    public class Tests
     {
         [SetUp]
         public void Setup()
@@ -11,7 +10,7 @@ namespace CSharpFundamentalsTests
         }
 
         [Test]
-        public void TestHelloWorld()
+        public void Test1()
         {
             Assert.Pass();
         }

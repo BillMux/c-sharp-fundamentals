@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitPractise", "NUnit\NUnitPractise.csproj", "{750A4D58-C7D5-4AB9-94E8-0A5C8BE4A4F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTests", "NUnitTests\NUnitTests.csproj", "{12F82EFF-D45A-426A-B645-09F5FC7DB598}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{750A4D58-C7D5-4AB9-94E8-0A5C8BE4A4F0}.Debug|x86.ActiveCfg = Debug|x86
+		{750A4D58-C7D5-4AB9-94E8-0A5C8BE4A4F0}.Debug|x86.Build.0 = Debug|x86
+		{750A4D58-C7D5-4AB9-94E8-0A5C8BE4A4F0}.Release|x86.ActiveCfg = Release|x86
+		{750A4D58-C7D5-4AB9-94E8-0A5C8BE4A4F0}.Release|x86.Build.0 = Release|x86
+		{12F82EFF-D45A-426A-B645-09F5FC7DB598}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{12F82EFF-D45A-426A-B645-09F5FC7DB598}.Debug|x86.Build.0 = Debug|Any CPU
+		{12F82EFF-D45A-426A-B645-09F5FC7DB598}.Release|x86.ActiveCfg = Release|Any CPU
+		{12F82EFF-D45A-426A-B645-09F5FC7DB598}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
